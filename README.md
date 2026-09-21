@@ -18,4 +18,5 @@
 
 ## Документація
 
-* [Опис проєкту](project-brief.md)
+- [Опис проєкту](project-brief.md)
+- [Класифікація проєкту та аналіз оточення](project-classification.md)
